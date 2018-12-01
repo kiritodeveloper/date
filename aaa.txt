@@ -1,0 +1,19 @@
+https://styde.net/integrar-google-maps-en-laravel-5-con-phpgmaps/
+
+
+https://riunet.upv.es/bitstream/handle/10251/73887/RODR%C3%8DGUEZ%20-%20Implementaci%C3%B3n%20de%20una%20red%20de%20sensores%20geolocalizados%20para%20la%20monitorizaci%C3%B3n%20urbana.pdf?sequence=2
+
+
+
+<startup useLegacyV2RuntimeActivationPolicy="true">
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/>
+</startup>
+
+
+
+
+
+
+
+
+https://drive.google.com/open?id=1LoE8r2ywAlGVuGyKdrPsF16DpEb7D1Sc

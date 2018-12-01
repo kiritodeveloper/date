@@ -1,0 +1,2 @@
+select * from deudas where socio_id='450'
+  revisar  
